@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yaserhussain5@gmail.com
+	name = Yaser Hussain
